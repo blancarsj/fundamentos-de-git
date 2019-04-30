@@ -1,1 +1,3 @@
 # fundamentos-de-git
+
+conflicto
