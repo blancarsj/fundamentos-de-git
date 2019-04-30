@@ -1,3 +1,3 @@
 # fundamentos-de-git
 
-conflicto
+crear conflicto
